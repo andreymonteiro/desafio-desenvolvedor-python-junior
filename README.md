@@ -1,4 +1,4 @@
-# Dependency Inspector
+# Desafio
 
 Script que lê as dependências de um projeto Python (requirements.txt ou pyproject.toml),
 busca informações de cada pacote no PyPI e no Snyk, e gera um relatório em Excel.
