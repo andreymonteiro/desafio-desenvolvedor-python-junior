@@ -1,0 +1,7 @@
+2026-07-29 19:26:49,454 [INFO] Lendo dependências de exemplo/requirements.txt
+2026-07-29 19:26:49,454 [INFO] 4 dependências encontradas
+2026-07-29 19:26:50,574 [INFO] Consultando requests
+2026-07-29 19:26:51,825 [INFO] Consultando flask
+2026-07-29 19:26:52,614 [INFO] Consultando numpy
+2026-07-29 19:26:53,758 [INFO] Consultando pandas
+2026-07-29 19:26:56,735 [INFO] Relatório salvo em relatorio.xlsx

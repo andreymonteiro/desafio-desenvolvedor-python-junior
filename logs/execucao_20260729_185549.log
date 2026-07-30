@@ -1,0 +1,6 @@
+2026-07-29 18:55:49,053 [INFO] Lendo dependências de requirements.txt
+2026-07-29 18:55:49,053 [INFO] 3 dependências encontradas
+2026-07-29 18:55:50,231 [INFO] Consultando requests
+2026-07-29 18:55:51,386 [INFO] Consultando selenium
+2026-07-29 18:55:52,122 [INFO] Consultando openpyxl
+2026-07-29 18:55:55,077 [INFO] Relatório salvo em relatorio.xlsx

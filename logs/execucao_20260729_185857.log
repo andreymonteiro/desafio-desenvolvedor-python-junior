@@ -1,0 +1,6 @@
+2026-07-29 18:58:57,930 [INFO] Lendo dependências de requirements.txt
+2026-07-29 18:58:57,931 [INFO] 3 dependências encontradas
+2026-07-29 18:58:59,114 [INFO] Consultando pandas
+2026-07-29 18:59:00,483 [INFO] Consultando requests
+2026-07-29 18:59:01,171 [INFO] Consultando urllib3
+2026-07-29 18:59:04,074 [INFO] Relatório salvo em relatorio.xlsx

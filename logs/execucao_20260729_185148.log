@@ -1,0 +1,9 @@
+2026-07-29 18:51:48,865 [INFO] Lendo dependências de requirements.txt
+2026-07-29 18:51:48,866 [INFO] 3 dependências encontradas
+2026-07-29 18:52:05,372 [INFO] Consultando requests
+2026-07-29 18:52:47,498 [ERROR] Timeout ao buscar requests no Snyk
+2026-07-29 18:52:47,498 [INFO] Consultando selenium
+2026-07-29 18:53:05,124 [ERROR] Timeout ao buscar selenium no Snyk
+2026-07-29 18:53:05,124 [INFO] Consultando openpyxl
+2026-07-29 18:53:21,905 [ERROR] Timeout ao buscar openpyxl no Snyk
+2026-07-29 18:53:24,020 [INFO] Relatório salvo em relatorio.xlsx
